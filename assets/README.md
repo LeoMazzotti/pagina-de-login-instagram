@@ -10,4 +10,3 @@ HTML e CSS
 
 Exercitar os conhecimentos adquiridos através das aulas de flexbox do Bootcamp da DIO e entregar o projeto de conclusão desse módulo.
 
-### Imagem da página
